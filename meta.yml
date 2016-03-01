@@ -5,4 +5,8 @@ type: practice
 beta: false
 language: gobstones
 id_format: '%05d'
-order: []
+order:
+- 900
+- 1000
+- 1100
+- 1200
