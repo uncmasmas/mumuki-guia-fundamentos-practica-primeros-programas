@@ -7,8 +7,6 @@ program {
   Poner(Rojo)
   Mover(Este)
   Poner(Negro)
-  Mover(Norte)
-  Poner(Verde)
 }
 ```
 
@@ -27,8 +25,6 @@ program {
   Mover(Este)
   Poner(Rojo)
   Poner(Negro)
-  Mover(Norte)
-  Poner(Verde)
 }
 ```
 

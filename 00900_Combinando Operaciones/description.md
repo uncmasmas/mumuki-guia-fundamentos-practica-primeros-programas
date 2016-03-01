@@ -1,6 +1,6 @@
-Ahora que conocemos a `Poner` y `Mover`, ya estamos en condiciones de combinarlos. :hushed:
+Veamos un primer ejemplo.
 
-Por ejemplo el siguiente programa coloca una bolita roja en la posición inicial y una negra al este.
+El siguiente programa coloca una bolita roja en la posición inicial y una negra al este.
 
 ```puppet
 program {
