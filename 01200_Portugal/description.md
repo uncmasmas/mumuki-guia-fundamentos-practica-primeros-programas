@@ -4,6 +4,6 @@ Escribí un programa que dibuje una bandera portuguesa, que se ve así:
 
 Como no nos vamos a poner tan quisquillosos, te vamos a pedir una versión simplificada, que se tiene que ver así:
 
-![3x2h21portugal](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-primeros-programas/master/images/3x2h21portugal.png)
+![portugal.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-primeros-programas/master/images/portugal.pn)
 
 Ah, el cabezal empieza en el origen.
