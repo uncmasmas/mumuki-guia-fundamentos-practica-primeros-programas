@@ -1,0 +1,3 @@
+No quedó muy lindo el programa, ¿no?
+
+Por ahora no podemos hacer nada mejor, pero para que lo vayas pensando: una particularidad de nuestra bandera es su simetría, la franja de arriba es exactamente igual a la de abajo. Si pudieramos crear un comando que dibuje la franja celeste nuestro programa quedaría mucho más simple...
