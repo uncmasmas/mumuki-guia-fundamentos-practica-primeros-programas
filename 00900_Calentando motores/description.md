@@ -2,7 +2,7 @@ Veamos un primer ejemplo.
 
 El siguiente programa coloca una bolita roja en la posición inicial y una negra al este.
 
-```puppet
+```gobstones
 program {
   Poner(Rojo)
   Mover(Este)
