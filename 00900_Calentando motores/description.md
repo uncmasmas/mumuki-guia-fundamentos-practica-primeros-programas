@@ -1,4 +1,4 @@
-Veamos un primer ejemplo.
+¡Veamos un primer ejemplo!
 
 El siguiente programa coloca una bolita roja en la posición inicial y una negra al este.
 
