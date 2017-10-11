@@ -6,7 +6,7 @@ En esta oportunidad vamos a programar la bandera de nuestros vecinos de Paraguay
 
 Teniendo en cuenta la imagen anterior, crear un programa en Gobstones, que nos permita crear la siguiente tablero:
 
-![Paraguay.png](https://github.com/uncmasmas/mumuki-guia-fundamentos-practica-primeros-programas/blob/master/images/Paraguay.png)
+![Paraguay.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-primeros-programas/master/images/argentina.png)
 
 
 
