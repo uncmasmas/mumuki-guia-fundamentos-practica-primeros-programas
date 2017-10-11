@@ -7,5 +7,5 @@ Copyright Federico Aloi, Mumuki Project and contributors
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history
-available at https://github.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-primeros-programas and the AUTHORS.txt file.
+available at https://github.com/uncmasmas/mumuki-guia-fundamentos-practica-primeros-programas and the AUTHORS.txt file.
 
