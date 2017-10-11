@@ -8,5 +8,5 @@ Teniendo en cuenta la imagen anterior, crear un programa en Gobstones, que nos p
 
 ![Paraguay.png](https://raw.githubusercontent.com/uncmasmas/mumuki-guia-fundamentos-practica-primeros-programas/master/images/Paraguay.png)
 
-
+El cabezal comienza en la posición inicial
 
