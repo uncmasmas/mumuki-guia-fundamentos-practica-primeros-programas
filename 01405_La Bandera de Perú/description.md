@@ -7,9 +7,8 @@ Por si no recuerdan, la bandera de Perú es como se puede ver en la siguiente im
 
 ¿Qué problema tuvimos? Quién programó por primera vez en Gobstones la banera de Perú pensaba que era de color **negra** y **blanca**. ¿Se animan a corregir el error del programdor? 
 
-
-
-![Paraguay.png](https://raw.githubusercontent.com/uncmasmas/mumuki-guia-fundamentos-practica-primeros-programas/master/images/Paraguay.png)
-
+| Inicial |   | Final |
+|:-------:|:-:|:-----:|
+|![BanderaPeruIncorrecta](https://github.com/uncmasmas/mumuki-guia-fundamentos-practica-primeros-programas/blob/master/images/BanderaPeruIncorrecta.png?raw=true)|<i class="fa fa-arrow-right"></i>|![BanderaPeruCorrecta](https://github.com/uncmasmas/mumuki-guia-fundamentos-practica-primeros-programas/blob/master/images/BanderaPeruCorrecta.png?raw=true)|
 
 
